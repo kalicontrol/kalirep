@@ -4,7 +4,7 @@ AppWithSettings - Solution Code
 App based on Basic Activity template that shows Settings in the options menu.
 Choosing Settings takes the user to the Settings Activity.
 
-Introduction
+Bilgi
 ------------
 
 This app provides an options menu with Settings. The user taps Settings to
